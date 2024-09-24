@@ -25,9 +25,9 @@ print("")
 
 print ("el consumo de combustible por kilometros es: " ,consumo_por_km) #imprimimos el resultado 
 
-codigo 
+#codigo 
 ![image](https://github.com/user-attachments/assets/cc7fd20c-18d2-4bc6-b02e-3d8bb5f1ad90)
 
-resultado 
+#resultado 
 ![image](https://github.com/user-attachments/assets/38bf6def-ab0b-48c4-b993-11d6df3ae95a)
 
